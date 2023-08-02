@@ -44,7 +44,7 @@ This chatbot leverages Langchain's text processing capabilities and OpenAI's GPT
 5. Run the chatbot:
 
    ```bash
-   python main.py
+   python bot.py
    ```
 
 ## Usage
