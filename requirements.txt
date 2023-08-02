@@ -1,0 +1,19 @@
+# This is a comment in the requirements.txt file
+
+
+langchain==0.0.229
+
+# Model
+OpenAI
+
+# vector db
+pinecone-client==2.2.2
+
+# BPE tokeniser
+tiktoken
+
+# Miscellaneous utilities
+python-dotenv==0.19.0
+poppler-utils
+unstructured
+pillow==10.0
